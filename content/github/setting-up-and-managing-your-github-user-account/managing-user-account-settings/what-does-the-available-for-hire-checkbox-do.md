@@ -1,4 +1,4 @@
----
+Use---
 title: What does the 'Available for hire' checkbox do?
 intro: Use the **Available for hire** checkbox to view GitHub Jobs posts within GitHub.
 redirect_from:
